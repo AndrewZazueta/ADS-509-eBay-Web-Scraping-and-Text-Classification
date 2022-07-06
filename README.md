@@ -1,3 +1,4 @@
+# ADS 509 eBay Web Scraping and Text Classification
 In this project, 6 classification models and 3 topic models were built using data scraped from eBay using Python's Beautiful Soup package. Of the 6 models, Naive Bayes yielded the highest accuracy at 85.2%, just missing the 87.1% baseline accuracy. The data was preprocessed by removing punctuation, stop words, and excess whitespace. After, the review text was tokenized for exploratory data analysis. Star ratings 1-3 and 4-5 were grouped into two bins so that we could use binary classification models for easier predictive modeling. 
 
 Files and their contents:
